@@ -1,7 +1,7 @@
 {
   "meta": {
     "schemaVersion": 1,
-    "lastFathomSyncAt": "2026-02-02T16:43:46.936Z",
+    "lastFathomSyncAt": "2026-02-02T16:53:25.167Z",
     "totalMeetings": 5
   },
   "meetings": {
@@ -9,31 +9,85 @@
       "id": "117054700",
       "title": "Fathom Demo",
       "created_at": "2026-01-26T15:08:17Z",
-      "url": "https://fathom.video/calls/545447234"
+      "url": "https://fathom.video/calls/545447234",
+      "participants": [
+        {
+          "name": "Richard White",
+          "email": null
+        },
+        {
+          "name": "Susannah DuRant",
+          "email": null
+        }
+      ]
     },
     "117055052": {
       "id": "117055052",
       "title": "Kickoff",
       "created_at": "2026-01-26T15:18:51Z",
-      "url": "https://fathom.video/calls/545448507"
+      "url": "https://fathom.video/calls/545448507",
+      "participants": [
+        {
+          "name": "Xavier Morera (Lupo.AI)",
+          "email": null
+        },
+        {
+          "name": "Yurandir Leandro",
+          "email": null
+        },
+        {
+          "name": "Xavier Morera",
+          "email": null
+        }
+      ]
     },
     "117499171": {
       "id": "117499171",
       "title": "Golo Dia 2",
       "created_at": "2026-01-27T17:36:42Z",
-      "url": "https://fathom.video/calls/545965869"
+      "url": "https://fathom.video/calls/545965869",
+      "participants": [
+        {
+          "name": "Golo Leandro",
+          "email": null
+        },
+        {
+          "name": "xavier",
+          "email": null
+        },
+        {
+          "name": "Xavier Morera",
+          "email": null
+        }
+      ]
     },
     "117593425": {
       "id": "117593425",
       "title": "Impromptu Zoom Meeting",
       "created_at": "2026-01-27T20:11:58Z",
-      "url": "https://fathom.video/calls/547413788"
+      "url": "https://fathom.video/calls/547413788",
+      "participants": [
+        {
+          "name": "Golo Leandro",
+          "email": null
+        }
+      ]
     },
     "118159514": {
       "id": "118159514",
       "title": "Instalacion App Fathom",
       "created_at": "2026-01-29T15:29:31Z",
-      "url": "https://fathom.video/calls/548866437"
+      "url": "https://fathom.video/calls/548866437",
+      "participants": [
+        {
+          "name": "Xavier Morera (Lupo.AI)",
+          "email": null
+        },
+        {
+          "name": "Golo Leandro",
+          "email": null
+        }
+      ]
     }
   }
 }
