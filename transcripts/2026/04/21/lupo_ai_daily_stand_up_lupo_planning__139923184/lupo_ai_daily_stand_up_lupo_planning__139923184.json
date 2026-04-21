@@ -1,0 +1,1417 @@
+{
+  "recording_id": "139923184",
+  "meeting_title": "Lupo.ai - Daily Stand Up [Lupo - Planning]",
+  "created_at_iso": "2026-04-21T20:24:48.000Z",
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Mademole, rápido, me está hablando Mike y quiere hablar, bueno, de mañana, eh, esto, eh, no se me vaya, ¿verdad?",
+      "timestamp": "00:00:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí.",
+      "timestamp": "00:00:21"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok, listo, Mike.",
+      "timestamp": "00:00:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Vamos a ver, Mike.",
+      "timestamp": "00:00:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Elegent Sanderson.",
+      "timestamp": "00:00:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Mae, dos semanas es la última vez que se hizo algo de eso, ¿verdad?",
+      "timestamp": "00:01:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí, pídale en todos.",
+      "timestamp": "00:01:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok.",
+      "timestamp": "00:01:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Mae, ese es un worktree, y a esa hora se la puedo poner, el worktree es donde está el brete temporal, y cuando uno le dice, el maestro lo escribe, ¿verdad?",
+      "timestamp": "00:01:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí, me lo vuelvo a todos.",
+      "timestamp": "00:01:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Sí, sí, vas a pichar.",
+      "timestamp": "00:01:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Mae, el New Look and Feel ya se aplicó, ¿verdad?",
+      "timestamp": "00:01:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Entonces estaría perfecto.",
+      "timestamp": "00:01:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Sí, pero ya está, bueno.",
+      "timestamp": "00:01:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Entonces también se puede volar, Mae.",
+      "timestamp": "00:01:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Mae, el Microsoft Off and Octa.",
+      "timestamp": "00:01:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ya, yo lo pasé donde arreglo choques que tuve, posiblemente voy a olvidar también.",
+      "timestamp": "00:01:45"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ese, Octa, ese So, ok.",
+      "timestamp": "00:01:51"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Sí, está bien, vuelve a esa picha, ¿verdad?",
+      "timestamp": "00:01:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Yo, de por sí, Mae, cuando yo le tengo estas varas, yo siempre agarro y hago el Brian.",
+      "timestamp": "00:01:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Desde el branch, desde DevMind, entonces siempre dejamos esa vara para que sea la menor cantidad de cambios, no hay?",
+      "timestamp": "00:02:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí, solo que hubo un montón de cambios en esos tipos.",
+      "timestamp": "00:02:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "No hay, esa vara se puede inclusive obviarlo y podemos empezarlo desde cero y hacer primero solo el de Microsoft y después solo el de Octa, si usted quiere que pueda ser así, se lo puede volar.",
+      "timestamp": "00:02:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No, yo lo que hice fue traerme el pull request, creo que es chévere, desde donde estaba, se lo hizo, a New Home Design, que es lo que yo estaba trabajando, entonces estaba más nuevo, eso que estaba trayendo, pero empecé a reventar por un montón de lados, y el mismo cloud, viendo el código que se ocupaba para lo de Microsoft, decir, me decía que le hacían falta cosas, entonces por ahí lo iba trabajando por eso.",
+      "timestamp": "00:02:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok.",
+      "timestamp": "00:02:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Pero no termino de saber cuál es bien, porque...",
+      "timestamp": "00:02:57"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Vea que este sí se lo vuelen solo, este me dice que está asociado, no, tampoco, me dijo que hubiera un asociado a este, este es el que está asociado a, ok, ok, ok, ok, ok, ok, ok, ok.",
+      "timestamp": "00:03:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "review, se había hecho un toque, ma, Cloud Opload Directly, ese es el que no se ha podido hacer todavía, ma, estamos en una mamadera en que vaya, Claudera me dijo que sí, pero ahora me dijo que solo una, no la otra, ma, eh, y ahora me acaban de decir que sí, que ya me va a hacer el de Champs, el de One Day.",
+      "timestamp": "00:03:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok, Mae, Mae, y ahora está ese PC que me acaba de decir que, Mae, quiere hacer un Proof of Concept con el Knowledge Base, Mae, y los videos.",
+      "timestamp": "00:04:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Pues por eso el Knowledge Base se convierte en algo mucho más importante que el resto de las varas.",
+      "timestamp": "00:04:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "¿Cómo estamos con esa vara entonces, Mae?",
+      "timestamp": "00:04:37"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Sí, es que le interrumpí.",
+      "timestamp": "00:04:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No, tranquilo, yo estaba volando, mente, y de Golo también, hacer este code review, era el de Codex.",
+      "timestamp": "00:04:41"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ajá, eso no importa, después vamos a hacer, Mae, yo creo que el primer bot que hagamos, sea un bot que hace code reviews.",
+      "timestamp": "00:04:50"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "A los commits, me gustaría que ese fuera el primero, madre.",
+      "timestamp": "00:04:59"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí, yo eso era lo que estaba diciendo ahorita, yo le metí este PR validation, le metió un montón de cosas, porque a mí yo ya estaba destinado, y cuando yo lo trabajo solo es diferente, ¿verdad?",
+      "timestamp": "00:05:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Porque a veces levantaba un fallo, el pull request, con el format de .NET, pero claro, levantaba hasta que estaba haciendo el deploying main, dev, entonces me tocaba hacer todo el flujo otra vez, y dije, no, no puedo seguir así, entonces ahora agarré el cloud, y empecé a tirar y tirar y tirar, entonces le metió varias restricciones, que las revisa antes del commit, entonces sí, claro, por lo menos uno se asegura que todos saben lo antes posible, entonces eso alíneas también lo de code review, por lo menos.",
+      "timestamp": "00:05:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok.",
+      "timestamp": "00:05:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí, el knowledge base ya está, ya está, fío, el full loop lo conté.",
+      "timestamp": "00:05:49"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "El cambio aquí, ¿no?",
+      "timestamp": "00:05:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ok.",
+      "timestamp": "00:05:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Este es el, el software, aquí aparece la computadora.",
+      "timestamp": "00:05:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Entonces ya no hay pérdidas, esos son los departamentos.",
+      "timestamp": "00:06:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ahí está el, ¿cómo es esta mierda?",
+      "timestamp": "00:06:04"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "El de farmacia estaba, ¿ya solo hizo, madre?",
+      "timestamp": "00:06:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Creo que no, yo ahorita que me reuní con ella, ya le dije dónde era, pero este estaba, estaba en llenamiento.",
+      "timestamp": "00:06:16"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Sí, Pero se hizo, capacitaciones, inducción, sí, solo eso ha hecho.",
+      "timestamp": "00:06:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok, madre, ok, está bien, madre, es un toque,",
+      "timestamp": "00:06:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Déjame poner una nota aquí.",
+      "timestamp": "00:07:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok, inducción, métese ahí ese folder, ¿verdad?",
+      "timestamp": "00:07:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Bueno, ahora Sol mete las varas.",
+      "timestamp": "00:07:20"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Va, cuando esté con esa vara, listo.",
+      "timestamp": "00:07:22"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "¿Cuál es el siguiente curso de acción?",
+      "timestamp": "00:07:24"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Vas a arreglar la documentación, me dijiste, ¿verdad?",
+      "timestamp": "00:07:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Ya, ya, ya lo arreglé.",
+      "timestamp": "00:07:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Fue que hubo un revert commit en algún momento.",
+      "timestamp": "00:07:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Hizo destrozos que todavía sigo arreglando.",
+      "timestamp": "00:07:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "está de bueno.",
+      "timestamp": "00:07:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Debe hecho un merge, pero no importa.",
+      "timestamp": "00:07:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Entonces, ya, ya está otra vez levantado.",
+      "timestamp": "00:07:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok.",
+      "timestamp": "00:07:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Listo.",
+      "timestamp": "00:07:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "En lo que estoy, con eso que leí, metiéndole algunas pruebas más, pues, para asegurarme de qué funciona, y combinando lo de Rack, y el otro commit.",
+      "timestamp": "00:07:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Lupo, Rack, se convierte ahora.",
+      "timestamp": "00:07:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "¿Cuál su prioridad?",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "¿Cómo hacer?",
+      "timestamp": "00:08:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Para que el Lupo Rack se haga un deployment en algún lugar, que sea como un API, que tenga cierta autenticación, que se puede llamar, y que el sistema lo pueda llamar, para poder hacer las búsquedas.",
+      "timestamp": "00:08:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "¿Usted ve esa vara de Gleam, Marp?",
+      "timestamp": "00:08:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Eso vamos, Marp.",
+      "timestamp": "00:08:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Si logramos hacer una vara en la que esté el Search, sobre el Knowledge Base, que tenga una parte social en donde se puede compartir, le hacemos la integración con Slack, Marp, todo eso, Marp, ahí va.",
+      "timestamp": "00:08:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Lo tendríamos todo, yo solo tiro.",
+      "timestamp": "00:08:27"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok, perfecto.",
+      "timestamp": "00:08:35"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok, toque para tu valor.",
+      "timestamp": "00:08:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "¿Qué más ocupa de mí, Marp?",
+      "timestamp": "00:08:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "No, pero solo eso.",
+      "timestamp": "00:09:00"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok.",
+      "timestamp": "00:09:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Vaya, hagas esa vara del Rack, si esa vara sale, Mar, sería fenomenal.",
+      "timestamp": "00:09:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Y eso sería el Ultimate Demo, Mar.",
+      "timestamp": "00:09:07"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Wow.",
+      "timestamp": "00:09:10"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Y esperamos que sí, para que ya puedas conectar bien todo, todo.",
+      "timestamp": "00:09:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Ok.",
+      "timestamp": "00:09:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Eso sería, Mar, the Ultimate Demo.",
+      "timestamp": "00:09:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Y de ahí, Mar, vamos a ir avanzando, Mar, y en todas.",
+      "timestamp": "00:09:19"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Una vez, Mar.",
+      "timestamp": "00:09:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Xavier Morera (Lupo.AI)",
+        "matched_calendar_invitee_email": "xavier@lupo.ai"
+      },
+      "text": "Buenas noches.",
+      "timestamp": "00:09:25"
+    },
+    {
+      "speaker": {
+        "display_name": "Deiber Granados",
+        "matched_calendar_invitee_email": null
+      },
+      "text": "Adiós.",
+      "timestamp": "00:09:26"
+    }
+  ],
+  "meeting": {
+    "title": "Lupo.ai - Daily Stand Up [Lupo - Planning]",
+    "meeting_title": "Lupo.ai - Daily Stand Up [Lupo - Planning]",
+    "url": "https://fathom.video/calls/646055731",
+    "created_at": "2026-04-21T20:24:48Z",
+    "scheduled_start_time": "2026-04-21T20:14:46Z",
+    "scheduled_end_time": "2026-04-21T21:14:46Z",
+    "recording_id": 139923184,
+    "recording_start_time": "2026-04-21T20:15:07Z",
+    "recording_end_time": "2026-04-21T20:24:39Z",
+    "calendar_invitees_domains_type": "one_or_more_external",
+    "transcript": [
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Mademole, rápido, me está hablando Mike y quiere hablar, bueno, de mañana, eh, esto, eh, no se me vaya, ¿verdad?",
+        "timestamp": "00:00:00"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí.",
+        "timestamp": "00:00:21"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok, listo, Mike.",
+        "timestamp": "00:00:55"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Vamos a ver, Mike.",
+        "timestamp": "00:00:57"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Elegent Sanderson.",
+        "timestamp": "00:00:59"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Mae, dos semanas es la última vez que se hizo algo de eso, ¿verdad?",
+        "timestamp": "00:01:00"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí, pídale en todos.",
+        "timestamp": "00:01:04"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok.",
+        "timestamp": "00:01:07"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Mae, ese es un worktree, y a esa hora se la puedo poner, el worktree es donde está el brete temporal, y cuando uno le dice, el maestro lo escribe, ¿verdad?",
+        "timestamp": "00:01:08"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí, me lo vuelvo a todos.",
+        "timestamp": "00:01:17"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Sí, sí, vas a pichar.",
+        "timestamp": "00:01:19"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Mae, el New Look and Feel ya se aplicó, ¿verdad?",
+        "timestamp": "00:01:20"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Entonces estaría perfecto.",
+        "timestamp": "00:01:26"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Sí, pero ya está, bueno.",
+        "timestamp": "00:01:36"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Entonces también se puede volar, Mae.",
+        "timestamp": "00:01:40"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Mae, el Microsoft Off and Octa.",
+        "timestamp": "00:01:42"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ya, yo lo pasé donde arreglo choques que tuve, posiblemente voy a olvidar también.",
+        "timestamp": "00:01:45"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ese, Octa, ese So, ok.",
+        "timestamp": "00:01:51"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Sí, está bien, vuelve a esa picha, ¿verdad?",
+        "timestamp": "00:01:53"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Yo, de por sí, Mae, cuando yo le tengo estas varas, yo siempre agarro y hago el Brian.",
+        "timestamp": "00:01:56"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Desde el branch, desde DevMind, entonces siempre dejamos esa vara para que sea la menor cantidad de cambios, no hay?",
+        "timestamp": "00:02:01"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí, solo que hubo un montón de cambios en esos tipos.",
+        "timestamp": "00:02:13"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "No hay, esa vara se puede inclusive obviarlo y podemos empezarlo desde cero y hacer primero solo el de Microsoft y después solo el de Octa, si usted quiere que pueda ser así, se lo puede volar.",
+        "timestamp": "00:02:19"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "No, yo lo que hice fue traerme el pull request, creo que es chévere, desde donde estaba, se lo hizo, a New Home Design, que es lo que yo estaba trabajando, entonces estaba más nuevo, eso que estaba trayendo, pero empecé a reventar por un montón de lados, y el mismo cloud, viendo el código que se ocupaba para lo de Microsoft, decir, me decía que le hacían falta cosas, entonces por ahí lo iba trabajando por eso.",
+        "timestamp": "00:02:28"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok.",
+        "timestamp": "00:02:56"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Pero no termino de saber cuál es bien, porque...",
+        "timestamp": "00:02:57"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Vea que este sí se lo vuelen solo, este me dice que está asociado, no, tampoco, me dijo que hubiera un asociado a este, este es el que está asociado a, ok, ok, ok, ok, ok, ok, ok, ok.",
+        "timestamp": "00:03:00"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "review, se había hecho un toque, ma, Cloud Opload Directly, ese es el que no se ha podido hacer todavía, ma, estamos en una mamadera en que vaya, Claudera me dijo que sí, pero ahora me dijo que solo una, no la otra, ma, eh, y ahora me acaban de decir que sí, que ya me va a hacer el de Champs, el de One Day.",
+        "timestamp": "00:03:34"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok, Mae, Mae, y ahora está ese PC que me acaba de decir que, Mae, quiere hacer un Proof of Concept con el Knowledge Base, Mae, y los videos.",
+        "timestamp": "00:04:08"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Pues por eso el Knowledge Base se convierte en algo mucho más importante que el resto de las varas.",
+        "timestamp": "00:04:29"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "¿Cómo estamos con esa vara entonces, Mae?",
+        "timestamp": "00:04:37"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Sí, es que le interrumpí.",
+        "timestamp": "00:04:40"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "No, tranquilo, yo estaba volando, mente, y de Golo también, hacer este code review, era el de Codex.",
+        "timestamp": "00:04:41"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ajá, eso no importa, después vamos a hacer, Mae, yo creo que el primer bot que hagamos, sea un bot que hace code reviews.",
+        "timestamp": "00:04:50"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "A los commits, me gustaría que ese fuera el primero, madre.",
+        "timestamp": "00:04:59"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí, yo eso era lo que estaba diciendo ahorita, yo le metí este PR validation, le metió un montón de cosas, porque a mí yo ya estaba destinado, y cuando yo lo trabajo solo es diferente, ¿verdad?",
+        "timestamp": "00:05:03"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Porque a veces levantaba un fallo, el pull request, con el format de .NET, pero claro, levantaba hasta que estaba haciendo el deploying main, dev, entonces me tocaba hacer todo el flujo otra vez, y dije, no, no puedo seguir así, entonces ahora agarré el cloud, y empecé a tirar y tirar y tirar, entonces le metió varias restricciones, que las revisa antes del commit, entonces sí, claro, por lo menos uno se asegura que todos saben lo antes posible, entonces eso alíneas también lo de code review, por lo menos.",
+        "timestamp": "00:05:15"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok.",
+        "timestamp": "00:05:46"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí, el knowledge base ya está, ya está, fío, el full loop lo conté.",
+        "timestamp": "00:05:49"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "El cambio aquí, ¿no?",
+        "timestamp": "00:05:54"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Ok.",
+        "timestamp": "00:05:56"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Este es el, el software, aquí aparece la computadora.",
+        "timestamp": "00:05:56"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Entonces ya no hay pérdidas, esos son los departamentos.",
+        "timestamp": "00:06:01"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ahí está el, ¿cómo es esta mierda?",
+        "timestamp": "00:06:04"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "El de farmacia estaba, ¿ya solo hizo, madre?",
+        "timestamp": "00:06:10"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Creo que no, yo ahorita que me reuní con ella, ya le dije dónde era, pero este estaba, estaba en llenamiento.",
+        "timestamp": "00:06:16"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Sí, Pero se hizo, capacitaciones, inducción, sí, solo eso ha hecho.",
+        "timestamp": "00:06:23"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok, madre, ok, está bien, madre, es un toque,",
+        "timestamp": "00:06:40"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Déjame poner una nota aquí.",
+        "timestamp": "00:07:01"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok, inducción, métese ahí ese folder, ¿verdad?",
+        "timestamp": "00:07:11"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Bueno, ahora Sol mete las varas.",
+        "timestamp": "00:07:20"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Va, cuando esté con esa vara, listo.",
+        "timestamp": "00:07:22"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "¿Cuál es el siguiente curso de acción?",
+        "timestamp": "00:07:24"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Vas a arreglar la documentación, me dijiste, ¿verdad?",
+        "timestamp": "00:07:27"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Ya, ya, ya lo arreglé.",
+        "timestamp": "00:07:30"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Fue que hubo un revert commit en algún momento.",
+        "timestamp": "00:07:32"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Hizo destrozos que todavía sigo arreglando.",
+        "timestamp": "00:07:35"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "está de bueno.",
+        "timestamp": "00:07:39"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Debe hecho un merge, pero no importa.",
+        "timestamp": "00:07:40"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Entonces, ya, ya está otra vez levantado.",
+        "timestamp": "00:07:42"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok.",
+        "timestamp": "00:07:46"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Listo.",
+        "timestamp": "00:07:46"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "En lo que estoy, con eso que leí, metiéndole algunas pruebas más, pues, para asegurarme de qué funciona, y combinando lo de Rack, y el otro commit.",
+        "timestamp": "00:07:47"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Lupo, Rack, se convierte ahora.",
+        "timestamp": "00:07:58"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "¿Cuál su prioridad?",
+        "timestamp": "00:08:00"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "¿Cómo hacer?",
+        "timestamp": "00:08:00"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Para que el Lupo Rack se haga un deployment en algún lugar, que sea como un API, que tenga cierta autenticación, que se puede llamar, y que el sistema lo pueda llamar, para poder hacer las búsquedas.",
+        "timestamp": "00:08:01"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "¿Usted ve esa vara de Gleam, Marp?",
+        "timestamp": "00:08:11"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Eso vamos, Marp.",
+        "timestamp": "00:08:13"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Si logramos hacer una vara en la que esté el Search, sobre el Knowledge Base, que tenga una parte social en donde se puede compartir, le hacemos la integración con Slack, Marp, todo eso, Marp, ahí va.",
+        "timestamp": "00:08:14"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Lo tendríamos todo, yo solo tiro.",
+        "timestamp": "00:08:27"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok, perfecto.",
+        "timestamp": "00:08:35"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok, toque para tu valor.",
+        "timestamp": "00:08:46"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "¿Qué más ocupa de mí, Marp?",
+        "timestamp": "00:08:56"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "No, pero solo eso.",
+        "timestamp": "00:09:00"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok.",
+        "timestamp": "00:09:01"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Vaya, hagas esa vara del Rack, si esa vara sale, Mar, sería fenomenal.",
+        "timestamp": "00:09:02"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Y eso sería el Ultimate Demo, Mar.",
+        "timestamp": "00:09:07"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Wow.",
+        "timestamp": "00:09:10"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Y esperamos que sí, para que ya puedas conectar bien todo, todo.",
+        "timestamp": "00:09:12"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Ok.",
+        "timestamp": "00:09:15"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Eso sería, Mar, the Ultimate Demo.",
+        "timestamp": "00:09:17"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Y de ahí, Mar, vamos a ir avanzando, Mar, y en todas.",
+        "timestamp": "00:09:19"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Una vez, Mar.",
+        "timestamp": "00:09:23"
+      },
+      {
+        "speaker": {
+          "display_name": "Xavier Morera (Lupo.AI)",
+          "matched_calendar_invitee_email": "xavier@lupo.ai"
+        },
+        "text": "Buenas noches.",
+        "timestamp": "00:09:25"
+      },
+      {
+        "speaker": {
+          "display_name": "Deiber Granados",
+          "matched_calendar_invitee_email": null
+        },
+        "text": "Adiós.",
+        "timestamp": "00:09:26"
+      }
+    ],
+    "transcript_language": "es",
+    "default_summary": null,
+    "action_items": null,
+    "calendar_invitees": [
+      {
+        "name": "Xavier Morera (Lupo.AI)",
+        "email": "xavier@lupo.ai",
+        "email_domain": "lupo.ai",
+        "is_external": false,
+        "matched_speaker_display_name": "Xavier Morera (Lupo.AI)"
+      }
+    ],
+    "recorded_by": {
+      "name": "Xavier Morera (Lupo.AI)",
+      "email": "xavier@lupo.ai",
+      "email_domain": "lupo.ai",
+      "team": null
+    },
+    "share_url": "https://fathom.video/share/VjuayqMLtXPpyBF7zXd62hfYjKc9A-jM",
+    "crm_matches": null
+  }
+}
